@@ -1,0 +1,20 @@
+[
+	{
+		"Tenant_Name": "CCM",
+		"Tenant_ID": "5253",
+		"ETL_Username": "etluser@CCM.com",
+		"ETL_Password": "Welcome@1234"
+	},
+	{
+		"Tenant_Name": "CCM",
+		"Tenant_ID": "5271",
+		"ETL_Username": "etluser@CCM.com",
+		"ETL_Password": "Welcome@123"
+	},
+	{
+		"Tenant_Name": "PMMIL2",
+		"Tenant_ID": "5891",
+		"ETL_Username": "etluser@PMMIL2.com",
+		"ETL_Password": "Welcome@123"
+	}
+]

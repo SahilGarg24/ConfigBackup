@@ -1,0 +1,29 @@
+{
+  "BDP1" : true,
+  "BDP2" : false,
+  "Tenant_Name" : "Tenant Name",
+  "Tenant_ID" : "TenantID",
+  "kibo_environment_name" : "Env. Name",
+  "kibo_webapi_url" : "Tenant URL till (.com)",
+  "LS_EtlUser" : "etluser@1.com",
+  "LS_EtlPassword" : "Welcome@123",
+  "LS_TenantName" : "Tenant Name-Tenant Type",
+  "LS_CustomerName" : "Customer Name",
+  "LS_EnviName" : "Env. Name-Env. Type",
+  "Logs_Offset" : 12,
+  "airflow_url" : "Airflow server complete IP address",
+  "Airflow_Username" : "Airflow server login username",
+  "Airflow_Password" : "Airflow server logni password",
+  "dag_id" : "names of all DAGs to be tracked seperated by comma (,)",
+  "ssh_hive_connection" : "Project SSH Hive connection ID",
+  "sftp_folder_name" : "SFTP Folder Name of the Tenant",
+  "Cloud_Service" : "Cloud Service Name (ex- aws)",
+  "Bucket_Name" : "Cloud BUcket Name (ex- s33)",
+  "Bucket_Address" : "Cloud Bucket Address (ex- s33://o9dl-awsst12345)",
+  "SFTP_username" : "sftp username provided to the team",
+  "SFTP_Password" : "sftp password provided to the team"
+}
+
+
+
+

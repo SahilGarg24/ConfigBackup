@@ -1,0 +1,7 @@
+Customer,Build,Tenant_URL,SFTP_Folder,Tenant_ID,Tenant_Name
+o9 Solutions,CCM - Prod / Azure - Prod,https://mydcxprod.o9solutions.com/,T1,0000,CCM
+o9 Solutions,CCM - Prod / Azure - Prod,https://mydcxprod.o9solutions.com/,T1,5271,CCM
+o9 Solutions,CCM - Pre Prod / Azure - Pre Prod,https://mydcxpreprod.o9solutions.com/,T2,5253,CCM
+o9 Solutions,CCM - Pre Prod / Azure - Pre Prod,https://mydcxpreprod.o9solutions.com/,T2,1234,CCM
+o9 Solutions,CCM - Pre Prod / Azure - Pre Prod,https://mydcxpreprod.o9solutions.com/,T2,1234,CCM
+o9 Solutions,PMMIL3 - UAT / GCP - UAT,https://mygcppmm.o9solutions.com/,T3,0002,PMMIL3
